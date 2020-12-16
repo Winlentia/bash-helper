@@ -6,7 +6,6 @@ alias bashf="cd ~/bash"
 
 
 path_alias_help(){
-    
 echo "
 alias l="ls -la"
 alias projects="cd ~/Documents/projects"

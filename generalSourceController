@@ -1,18 +1,9 @@
-source /Users/$USER/bash/.gitScripts
 source /Users/$USER/bash/.pathAlias
-source /Users/$USER/bash/.scripts
 
 
 show_all_helps(){
-    print_title "script_help"
-    script_help 
-
-    print_title "git_help"
-    git_help
-
     print_title "path_alias_help"
     path_alias_help
-    
 }
 
 print_title(){
