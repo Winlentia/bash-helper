@@ -1,6 +1,0 @@
-alias st="git status"
-
-git_help(){
-    echo "st = git status"
-    echo "cleanXcode = it Cleans Xcode Delivery Data path"
-}

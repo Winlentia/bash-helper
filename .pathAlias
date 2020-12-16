@@ -1,23 +1,17 @@
 alias l="ls -la"
-alias projects="cd /Users/winlentia/Documents/projects"
-alias enpara="cd /Users/winlentia/Documents/projects/enpara"
-alias iosCache="cd /Users/winlentia/Library/Developer/Xcode/DerivedData"
-alias ios="cd /Users/winlentia/Documents/projects/enpara/EnParaMobile"
-alias merge="bash /Users/winlentia/scripts/AutoMergeWithoutCommit "
-alias fscript="cd /Users/winlentia/scripts"
-alias bashFolder="cd /Users/winlentia/bash"
+alias projects="cd ~/Documents/projects"
+alias iosCache="cd ~/Library/Developer/Xcode/DerivedData"
+alias bashf="cd ~/bash"
 
 
 
 path_alias_help(){
     
-    echo "
-l           = ls -la
-projects    = cd /Users/winlentia/Documents/projects
-enpara      = cd /Users/winlentia/Documents/projects/enpara
-iosCache    = cd /Users/winlentia/Library/Developer/Xcode/DerivedData
-ios         = cd /Users/winlentia/Documents/projects/enpara/EnParaMobile
-bashFolder        = cd /Users/winlentia/bash
-    "
+echo "
+alias l="ls -la"
+alias projects="cd ~/Documents/projects"
+alias iosCache="cd ~/Library/Developer/Xcode/DerivedData"
+alias bashf="cd ~/bash"
+" 
     
 }
