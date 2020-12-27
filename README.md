@@ -1,5 +1,11 @@
 # bash-helper
 
+preinstalls required: 
+https://ohmyz.sh/
+https://github.com/zsh-users/zsh-syntax-highlighting
+https://github.com/amix/vimrc
+
+
 This repo helps me to organize and easy to access for most used bash scripts
 
 1: clone this repo to : "~/bash" -> folder 
