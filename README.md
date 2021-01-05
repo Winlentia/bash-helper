@@ -17,3 +17,11 @@ This repo helps me to organize and easy to access for most used bash scripts
 2: open your rc file ~/.zshrc of ~/.bashrc then add 
 
 "source ~/bash/.generalSourceController"
+
+
+
+----------------
+
+vim:
+
+https://github.com/tpope/vim-surround
